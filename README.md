@@ -2,8 +2,11 @@
 
 A comprehensive full-stack web application for managing employees, departments, attendance, and leave requests with role-based access control and real-time notifications.
 
-## 📋 Table of Contents
+## 🔗 Quick Links
+- [Frontend](https://github.com/aradna123/EMS/tree/main/frontend)
+- [Backend](https://github.com/aradna123/EMS/tree/main/backend)
 
+## 📋 Table of Contents
 - [Overview](#overview)
 - [Features](#features)
 - [Tech Stack](#tech-stack)
